@@ -34,7 +34,7 @@ Every word, every photo, and every detail on this website is dedicated to her. �
 
 🌍 Live Website
 
-this website can be accessed here:
+this website can be accessed here:https://aishwary0085.github.io/shreya-birthday/
 
 💞 Final Note
 
